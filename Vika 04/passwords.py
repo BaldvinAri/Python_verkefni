@@ -43,7 +43,6 @@ while True:
             num_bool = True
                 # Condition 4
  
-
     if lower_bool and upper_bool and num_bool:
         print('Valid password of length',pass_len_int)
         valid_int += 1
