@@ -15,4 +15,3 @@ if palindrome(in_str):
 else:
     print("\"{}\" is not a palindrome.".format(in_str))
 
-"string".
