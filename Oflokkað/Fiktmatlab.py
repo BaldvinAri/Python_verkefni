@@ -11,6 +11,6 @@ figure = plt.figure(figsize=(7,7))
 plt.plot( x_cords , y_cords , label = "Cos(x) vs Sin(x)")
 plt.legend("Hringur")
 
-plt.savefig("Óflokkað/Hringurprufa", transparent = True)
+#plt.savefig("Óflokkað/Hringurprufa", transparent = True)
 plt.show()
 
