@@ -1,26 +1,4 @@
-Donald
-Trump
-forseti
-Bandaríkjanna
-tilkynnti
-í
-gærkvöldi
-að
-Bandaríkin
-hygðust
-leggja
-innflutningstolla
-á
-kínverskar
-vörur
-að
-andvirði
-200
-milljarða
-Bandaríkjadala
-.
-
-Þessi
-aðgerð
-er
-umfangsmeiri
+1 3 -5
+4 -2 1
+2 5 3
+45 23 33 3
