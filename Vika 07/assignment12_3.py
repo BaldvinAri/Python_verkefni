@@ -6,7 +6,7 @@ def get_file_as_str():
     file_str = file_obj.read()
     return file_str
 
-def remove_letter_from_string(lett,i_str):
+def remove_letter_from_string(lett, i_str):
     new_str = ""
     for i in i_str:
         if lett != i:

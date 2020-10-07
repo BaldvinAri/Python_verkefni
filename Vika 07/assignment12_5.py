@@ -51,9 +51,6 @@ if isdigit_list(num_list):
     print("Prime list: ",prime_list)
     print("Min: {}, Max: {}, Average: {:.2f}".format(min_num,max_num,avg_num))
 
-
-
-
 else:
     print("Incorrect input!")        
 # The main program starts here

@@ -6,15 +6,10 @@ def iseven(n_int):
 def remove_evens(int_list):
     [int_list.remove(elem) for elem in int_list[:] if iseven(elem)]
 
-
-
 def remove_evens2(int_list):
     new_list = []
     [new_list.append(ele) for ele in int_list if not(iseven(ele)) ]
     return new_list
-
-
-
 
 
 # Main starts here
